@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @infection-tag
-- 👀 I’m interested in Game Dev
-- 🌱 I’m currently learning C
-- 💞️ I’m looking to collaborate on nothing.
-- 📫 How to reach me turn ten blocks to the right, and ask the man at the door for a lump of sugar and 2 scoopes of butter. Don't be alarmed when he takes you. You will wake up, bindfold removed, sitting in front of me.
+- 👀 I’m interested in various things, including Game Dev and Productivity Apps
+- 🌱 I’m currently learning C++.
+- 💞️ I’m looking to collaborate on various things: looking for an animator or someone who knows Unity and how to pair it with Ink.
+- 📫 How to reach me: Shoot at [email to me][email] titled "COLLABORATION" or something.
+
+[email]: qweenjon@gmail.com
 
 <!---
 infection-tag/infection-tag is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
